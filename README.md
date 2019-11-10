@@ -1,0 +1,1 @@
+# typecript-rule-processor
